@@ -1,5 +1,9 @@
 {
   "name": "todolist",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1",
+    "showdown": "^1.6.4"
   }
 }
